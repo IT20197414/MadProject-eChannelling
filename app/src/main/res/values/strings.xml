@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Regbutton">Register Now</string>
+    <string name="button3">Register as a Doctor in eChanneling</string>
+    <string name="Docappbtn">Channel a Doctor</string>
+    <string name="labbtn">Lab Tests</string>
+    <string name="labbtn2">Lab Tests</string>
+    <string name="healthbtn">My health Profile</string>
+</resources>
